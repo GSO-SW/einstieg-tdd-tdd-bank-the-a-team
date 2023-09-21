@@ -11,3 +11,7 @@ TODO:
 1. User Stories
 - Was sind User Stories?
 -- 
+- Muss ich auf ein bestimmtes Muster achten, wenn wir die schreiben?
+--
+- Was ist diese "Definition of Done"
+-- Unter "Definition of Done" wird angegeben, was das Programm können muss und was nicht passieren darf
