@@ -7,3 +7,7 @@ TODO:
 - Bitte überprüfen:
 - Finden Sie Fehler in der Implementierung?
 - Finden Sie "Verbesserungen" in den UserStories?
+
+1. User Stories
+- Was sind User Stories?
+-- 
