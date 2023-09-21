@@ -7,3 +7,10 @@ TODO:
 - Bitte überprüfen:
 - Finden Sie Fehler in der Implementierung?
 - Finden Sie "Verbesserungen" in den UserStories?
+
+
+
+
+1. User Stories
+- Was sind User Stories
+-- user storys sind erfahrung von aktiven usern die das programm benutzen und fehler gefunden haben oder besserungs vorschläge
