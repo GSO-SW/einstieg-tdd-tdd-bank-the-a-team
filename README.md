@@ -8,10 +8,14 @@ TODO:
 - Finden Sie Fehler in der Implementierung?
 - Finden Sie "Verbesserungen" in den UserStories?
 
+
 1. User Stories
-- Was sind User Stories?
--- 
+- Was sind User Stories
+-- user storys sind erfahrung von aktiven usern die das programm benutzen und fehler gefunden haben oder besserungs vorschläge
 - Muss ich auf ein bestimmtes Muster achten, wenn wir die schreiben?
 --
 - Was ist diese "Definition of Done"
 -- Unter "Definition of Done" wird angegeben, was das Programm können muss und was nicht passieren darf
+
+
+
