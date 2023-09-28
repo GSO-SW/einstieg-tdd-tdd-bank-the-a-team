@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chakour.b\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alimm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chakour.b\\github\\bank\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\alimm\\Desktop\\GSO\\SWE\\Testing\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Users\\chakour.b\\github\\bank\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\Bank.csproj",
-      "packagesPath": "C:\\Users\\chakour.b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chakour.b\\github\\bank\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\obj\\",
+      "projectPath": "C:\\Users\\alimm\\Desktop\\GSO\\SWE\\Testing\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\Bank.csproj",
+      "packagesPath": "C:\\Users\\alimm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alimm\\Desktop\\GSO\\SWE\\Testing\\einstieg-tdd-tdd-bank-the-a-team\\Bank\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\chakour.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alimm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
